@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Hi there! I'm Lakshay Gill, a passionate software engineer.<br><br>💼 Skills<br>Languages: Java, Python, C<br><br>🚀 Projects<br>Snake Game: A simple Snake game implemented in Java. Play the classic retro game and enjoy!<br>Guess a Number: This Python game challenges players to guess a randomly selected number between 1 and 200. Players receive feedback on their<br>guesses and have six attempts to find the correct number.<br><br>📫 Get in Touch<br>Feel free to reach out to me via<br>LinkedIn: www.linkedin.com/in/lakshay-gill-7097062aa<br>Gmail: lgill2904@gmail.com<br><br>Looking forward to collaborating and sharing ideas!
 
 
